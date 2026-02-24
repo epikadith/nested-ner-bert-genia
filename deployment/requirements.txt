@@ -2,3 +2,4 @@ torch
 transformers
 pytorch-lightning
 huggingface_hub
+gradio
